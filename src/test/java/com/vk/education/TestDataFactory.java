@@ -1,6 +1,6 @@
 package com.vk.education;
 
 public class TestDataFactory {
-    public static String USER_NUMBER = "+79950909126";
-    public static String PASSWORD = "COLOR1101";
+    public static String USER_NUMBER = "technopol58";
+    public static String PASSWORD = "technopolisPassword";
 }
